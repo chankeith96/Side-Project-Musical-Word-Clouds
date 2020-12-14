@@ -1,3 +1,5 @@
+title: Welcome to Musical Word Clouds 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/chankeith96/Side-Project-Musical-Word-Clouds/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
